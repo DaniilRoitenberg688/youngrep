@@ -1,0 +1,11 @@
+CREATE TABLE reps (
+    surname      TEXT,
+    name         TEXT,
+    subject      TEXT,
+    class        INTEGER,
+    place        TEXT,
+    tariff       INTEGER,
+    achievements TEXT,
+    feedback     INTEGER,
+    image        TEXT
+);

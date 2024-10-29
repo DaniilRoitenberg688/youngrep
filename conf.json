@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "youngrep-439211",
+  "private_key_id": "2bbb4dd9ddc820d916f6ea9f8d952b91c5fede7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyRrsomgkC15Li\nR5i3Iqi19JUmYUvZBfHbV0XDHG2F2jz1KGOLaV7qFuDv6YS01nkHIkgXFKCL9sqK\nu2XGKrv5NQI3MBrDpzl1nPVcM0vcaWxt6gyQLKzrvzD8yDT4/yc8CiQxDCRmfVTt\n3pNA1yf8WDG/WGZhj/G74PnsVuwL/0ZOxqQO0nCZ2n7BST80+Srfi2N55WJ38MIH\nIAVSfI/MPMbsdj1Xs0ISNL4xYKspkeTpU9IH1JdtXw6dD3zJGOMOUORinyZ40C+m\nRUTXChM6ByfUzRWrA9uBup2ifm10gQ+756M2PuRNZyFXK/WWKbE8t0wAz4Tfhhjf\nJceHNJp/AgMBAAECggEAPuSuJXJGKI8F3jd0/HLJQzvwnHQpznwG6aM91MoEJ3sp\nEzI3ABlh50LAA1OGQkgBtY8WELJxuz8LEGtxSbqMyyu0xuR9JLYrkr8XXnooUq+M\nlbBC02A3dwnhzeQRsCBP5qILR5RpiRDBNBPYLkFZdXBlyIP2xoeCOA50DTlTGB3V\noT9fHuJqGT+u985ozgUj0KJ8CWVIZO90uizBsfA68ygH7YdqM/Tr50EnR3gPMJBp\nXQ3F49/AbPfj80ixa5n9nl1z0JShBvUQ6Wqqhmpjn2e5IsK4LwjrqfOWQE4xSRi2\ns+/vdxWjbzgTDIGB1BW9tom3yg8NKV8qFHpeuhl6jQKBgQDX2oDE0WODsPOcf10k\nEKgvsqY8THVQMiXWp7fBF8j3cuFAj8Xsnhpz4uEbNYmYhGKajTaMJWjov3oOKkM7\ncvyKPM6+4yGZS6mgydc3rtz8Iwz9zA0FDHDWRnvKzYJdTGzSErA81jaov5MfJ5sE\nzJtfnjY39KXdpq9Daeo1P8+RHQKBgQDTbw1hyVxVw4pX9/RNzfUjII6gLDjIlrkA\nn/AEEWb4Ofen+5oXJO59rOHAOBkZ+rfUtGHYWrn7s8D+wJ5rLQFd1fbZDE9mgUW3\noUILcJc646FrEuN/TsHwCOE0NxNrXMoTDuSYidzVhIWNSayhBq40QILbeyB0gtw7\nbvMcdozDSwKBgQCV5Uf85cesoQpbiFre+65ACVjFkPb6rQh3y1qg/epyZFWmZvE0\ngwqtpUVbhs85md17pErYAfabgrS494Je21gii12rU8F2WgO/A8uwAH+3nIOeD8CO\n2/fT5Xh7+kDol3UOYSn/5WZpwzfgr7lIGOpg+VZ/fyZcCS+2qeuZ9OkoxQKBgHJ3\nyB3t3zCLeeWgV0KcQ6At6ymqZ1+pwiUlcdMx/LZc48itPcJT+05M/7eKZ4SaKVZe\nBi8VB2XO7qi9bccGiZvc0BS4RnBvgmglRNVesnFudaC7jDELWZHzrMERJFFW3gwt\nXvN6h/WNFqTkgzJ2pG+jkXT0FyEdC9Cdg78gK5s7AoGBAKfkDEzb+I60wmgSxX12\nZxZUnFSmqenQSbV748hhSL144bXkytD+gG4pIdjk4vnU4m1abNMPCibwI5C0oPkX\n6zVVaxjrhqg9z9lAbedelx/OUA9CnESXxPGj6idCr1n+2QdPf1KufAulL0BwGM/U\ngLeERS8+Grz17rvEtfoGJ9+G\n-----END PRIVATE KEY-----\n",
+  "client_email": "yongrep@youngrep-439211.iam.gserviceaccount.com",
+  "client_id": "108358901455273786854",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yongrep%40youngrep-439211.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
